@@ -1,0 +1,16 @@
+/* Global view desktop*/
+
+.container {
+  background-color: aquamarine;
+  min-height: 500px;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+/* Tablet view */
+@media (max-width: 768px) {
+}
+
+/* Mobile view */
+@media (max-width: 400px) {
+}
